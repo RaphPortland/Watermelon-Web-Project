@@ -1,0 +1,30 @@
+[
+
+    {
+        "userId" : 1,
+        "nom" : "Partouche",
+        "prenom" : "Raphael",
+        "email" : "raphaelpartouche@gmail.com",
+        "password" : "coucou",
+        "valuewallet": 2000
+
+    },
+    {
+        "userId" : 2,
+        "nom" : "calabasas",
+        "prenom" : "Roberto",
+        "email" : "Roberto@gmail.com",
+        "password" : "coucou",
+        "valuewallet": 3000
+
+    },
+    {
+        "userId" : 3,
+        "nom" : "oshaa",
+        "prenom" : "squiv",
+        "email" : "oshaa@gmail.com",
+        "password" : "coucou",
+        "valuewallet": 4000
+    }
+
+]

@@ -1,0 +1,28 @@
+[
+
+    {
+        "CardId" : 1,
+        "userId" : 1,
+        "last_4" :  "1234" ,
+        "brand" :  "visa",
+        "expired_at" : "10-2020"
+
+    },
+    {
+        "CardId" : 2,
+        "userId" : 1,
+        "last_4":  "1234" ,
+        "brand" :  "visa",
+        "expired_at" : "02-2040"
+
+    },
+    {
+        "CardId" : 3,
+        "userId" : 1,
+        "last_4":  "1234" ,
+        "brand":  "mastercard",
+        "expired_at" : "09-2021"
+
+    }
+
+]
